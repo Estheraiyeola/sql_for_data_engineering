@@ -1,0 +1,5 @@
+-- RETRIEVE ALL ORDERS DATA
+
+use MyDatabase;
+SELECT *
+FROM orders
